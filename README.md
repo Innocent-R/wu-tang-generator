@@ -6,6 +6,7 @@ How It's Made: Tech used: HTML, CSS, and JavaScript
 
 Lessons Learned: I learned how to use JavaScript functions
 
-Find the live project at https://innocent-r.github.io/wu-tang-generator/
 
 <img width="952" height="692" alt="Screenshot 2025-10-16 at 9 13 57 PM" src="https://github.com/user-attachments/assets/9cf0e407-ab78-4a0e-8fe9-7edaeb7a5308" />
+
+Find the live project at https://innocent-r.github.io/wu-tang-generator/
