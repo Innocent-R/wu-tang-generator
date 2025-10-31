@@ -1,10 +1,10 @@
 Project: Wu-Tang Name Generator
 
-The Wu-Tang Name Generator is a project where the user responds to questions and gets a random Wu-Tang name. 
+The Wu-Tang Name Generator is a fun project where users answer a few questions and receive a randomly generated Wu-Tang-style name.
 
 How It's Made: Tech used: HTML, CSS, and JavaScript
 
-Lessons Learned: I learned how to use JS functions
+Lessons Learned: I learned how to use JavaScript functions
 
 Find the live project at https://innocent-r.github.io/wu-tang-generator/
 
